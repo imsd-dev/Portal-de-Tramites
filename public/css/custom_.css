@@ -1446,13 +1446,13 @@ ul.nav-list li a {
 
 }
 
-/* FIX HEADER */
+/* FIX HEADER 
 #header .header-logo img {
     margin: -13px 3px 7px 11px;
     position: relative;
     top: 30px;
     transition: all 0.3s ease 0s;
-}
+}*/
 #header .header-btn-collapse-nav {
     background: #145174 none repeat scroll 0 0;
 }

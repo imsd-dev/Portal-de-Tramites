@@ -14,7 +14,7 @@
 		    <div class="header-row">
 			
                 <div class="header-column" style="padding-top:35px;">
-					<div class="header-logo">
+					<div class="headerLogo">
                         <a href="<?php echo URL ?>">
                             <img alt="Municipalidad de Santo Domingo" src="<?php echo URL ?>public/img/logo.png">
                         </a>

@@ -2172,8 +2172,8 @@ ul.nav-list li a:focus {
     padding: 30px;
 }
 
-/* FIX HEADER */
-#header .header-logo img {
+/* FIX HEADER  CAMBIAR*/ 
+#header .header-logo a img {
     margin: -28px 3px 7px 11px;
     position: relative;
     top: 30px;
@@ -2485,3 +2485,7 @@ html.dark #footer  #footer  li a:hover{
 }
 
 
+#header .headerLogo a img{
+    display:inline-block;
+    /* float: left; */
+} 

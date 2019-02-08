@@ -2716,8 +2716,8 @@ window.theme = {};
 				stickyStartAt: 0,
 				stickyStartAtElement: false,
 				stickySetTop: 0,
-				stickyChangeLogo: false,
-				stickyChangeLogoWrapper: true
+				//stickyChangeLogo: false,
+				//stickyChangeLogoWrapper: true
 			},
 
 			initialize: function($wrapper, opts) {

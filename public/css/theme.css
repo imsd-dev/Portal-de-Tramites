@@ -57,7 +57,7 @@ li {
 #header .container {
 	position: relative;
 }
-
+/* CAMBIAR ?  display:table*/
 #header .header-container {
 	position: relative;
 	display: table;
@@ -140,7 +140,7 @@ li {
 	margin-bottom: 10px;
 	border-bottom: 0;
 }
-
+/* table-row*/
 #header .header-row {
 	display: table-row;
 	clear: both;
@@ -149,6 +149,8 @@ li {
 #header .header-column {
 	display: table-cell;
 	vertical-align: middle;
+	
+	
 }
 
 #header .header-column .row {
@@ -188,16 +190,17 @@ li {
 #header .header-column.header-column-center {
 	text-align: center;
 }
-
-#header .header-column.header-column-center .header-logo {
+/* Revisar
+#header .header-column.header-column-center .headerLogo {
 	width: 100% !important;
 	padding: 9px 0;
 }
-
-#header .header-logo {
+/*Revisar
+#header .headerLogo {
 	float: left;
 	position: relative;
 }
+*/
 
 #header .header-logo img {
 	-webkit-transition: all 0.3s ease;
