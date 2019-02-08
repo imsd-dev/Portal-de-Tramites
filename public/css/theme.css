@@ -147,7 +147,7 @@ li {
 }
 
 #header .header-column {
-	display: table-cell;
+	display: inline-flex;
 	vertical-align: middle;
 	
 	

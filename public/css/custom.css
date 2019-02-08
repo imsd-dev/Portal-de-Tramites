@@ -2486,6 +2486,30 @@ html.dark #footer  #footer  li a:hover{
 
 
 #header .headerLogo a img{
-    display:inline-block;
-    /* float: left; */
+    display:inline-flex;
+    float: left;
+    margin-left: 60px;
+
 } 
+#contenedor-leyes{
+    margin-right: 400px;
+    flex:auto;
+     
+}
+#contenedor-leyes ul{
+    display:inline-flex;
+    float: right;
+
+}
+
+#contenedor-leyes ul li{
+    padding-right:5px;
+
+}
+
+.redes-sociales{
+    /* margin-right:300px; */
+    float:right;
+    height:30px;
+
+}
