@@ -1,0 +1,23 @@
+
+.collapse {
+    display: block !important;
+    height: auto !important;
+}
+
+.accordion-body {
+	
+	
+}
+ 
+a:after {
+  content: " (" attr(href) ") ";
+}
+
+a:before {
+  content: " (" attr(href) ") ";
+}
+
+	#header {
+		display: none;
+		
+	}
